@@ -1,2 +1,1 @@
-# collection-app
-Simple AngularJS 2.0 Collection app
+Simple collection-app written with AngularJS 2.0.
